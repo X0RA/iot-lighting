@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/firestore": "^6.8.0",
+    "aedes": "^0.50.0",
+    "firebase-admin": "^11.11.0",
+    "mqtt": "^5.0.5"
+  }
+}

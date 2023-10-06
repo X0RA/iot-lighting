@@ -1,0 +1,9 @@
+[
+  { "name": "Home", "link": "/", "login": null },
+  { "name": "About", "link": "/about", "login": null },
+  { "name": "Login", "link": "/login", "login": false },
+  { "name": "Signup", "link": "/signup", "login": false },
+  { "name": "Lights", "link": "/lights", "login": true },
+  { "name": "Add Light", "link": "/addlight", "login": true },
+  { "name": "Logout", "link": "/logout", "login": true }
+]
