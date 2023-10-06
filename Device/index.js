@@ -1,10 +1,10 @@
 const mqtt = require("mqtt");
 
-const serverURL = "mqtt://localhost";
+const serverURL = "mqtt://52.55.136.20";
 
 const user = {
-  light: "PxzyDVirKAK1Gbp52kCO",
-  apikey: "d94MBXXtkh8V32jgG58vZslJrEwCDrtk",
+  light: "xBJ2K6OcgUvJ4nIUs2eg",
+  apikey: "afKAj6JL7QyScfLMmVksO4jtnEvDzxVu",
 };
 
 const options = {
